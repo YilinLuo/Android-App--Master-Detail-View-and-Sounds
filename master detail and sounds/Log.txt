@@ -1,0 +1,42 @@
+
+2019-04-10 19:48:48.020 14848-14848/? I/InstantRun: starting instant run server: is main process
+2019-04-10 19:48:48.247 14848-14848/? W/m.example.ex_0: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2019-04-10 19:48:48.247 14848-14848/? W/m.example.ex_0: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2019-04-10 19:48:48.303 14848-14848/? D/Yilin: YES, ListFragment is attached
+2019-04-10 19:48:48.333 14848-14848/? D/Yilin: onStart(Bundle) called
+2019-04-10 19:48:48.335 14848-14848/? D/Yilin: onResume(Bundle) called
+2019-04-10 19:48:48.348 14848-14848/? D/OpenGLRenderer: Skia GL Pipeline
+2019-04-10 19:48:48.427 14848-14871/? I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2019-04-10 19:48:48.427 14848-14871/? I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2019-04-10 19:48:48.427 14848-14871/? I/OpenGLRenderer: Initialized EGL, version 1.4
+2019-04-10 19:48:48.427 14848-14871/? D/OpenGLRenderer: Swap behavior 1
+2019-04-10 19:48:48.428 14848-14871/? W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2019-04-10 19:48:48.428 14848-14871/? D/OpenGLRenderer: Swap behavior 0
+2019-04-10 19:48:48.430 14848-14871/? D/EGL_emulation: eglCreateContext: 0xe61052a0: maj 3 min 0 rcv 3
+2019-04-10 19:48:48.432 14848-14871/? D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:48.572 14848-14871/? D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:48.647 14848-14871/? D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:48.674 14848-14871/? D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:48.695 14848-14871/? D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:49.992 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:59.603 14848-14848/com.example.ex_08 D/Yilin: onPause(Bundle) called
+2019-04-10 19:48:59.605 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:48:59.608 14848-14848/com.example.ex_08 D/Yilin: onStop(Bundle) called
+2019-04-10 19:48:59.622 14848-14848/com.example.ex_08 D/Yilin: on saved
+2019-04-10 19:48:59.634 14848-14848/com.example.ex_08 D/Yilin: onDestroy(Bundle) called
+2019-04-10 19:48:59.707 14848-14848/com.example.ex_08 D/Yilin: YES, ListFragment is attached
+2019-04-10 19:48:59.737 14848-14848/com.example.ex_08 D/Yilin: onStart(Bundle) called
+2019-04-10 19:48:59.744 14848-14848/com.example.ex_08 D/Yilin: onResume(Bundle) called
+2019-04-10 19:48:59.958 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:00.019 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:00.024 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:00.039 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:01.359 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:01.604 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:01.619 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:02.995 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:03.005 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:04.226 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:06.175 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:17.559 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
+2019-04-10 19:49:21.025 14848-14871/com.example.ex_08 D/EGL_emulation: eglMakeCurrent: 0xe61052a0: ver 3 0 (tinfo 0xe61036a0)
